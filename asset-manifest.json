@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Teachmint/static/css/main.65a4ba3b.css",
+    "main.js": "/Teachmint/static/js/main.ebc61890.js",
+    "static/js/787.35553f8f.chunk.js": "/Teachmint/static/js/787.35553f8f.chunk.js",
+    "index.html": "/Teachmint/index.html",
+    "main.65a4ba3b.css.map": "/Teachmint/static/css/main.65a4ba3b.css.map",
+    "main.ebc61890.js.map": "/Teachmint/static/js/main.ebc61890.js.map",
+    "787.35553f8f.chunk.js.map": "/Teachmint/static/js/787.35553f8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a4ba3b.css",
+    "static/js/main.ebc61890.js"
+  ]
+}
